@@ -2,7 +2,10 @@
 
 a simple string replacement system for creating Palindromes and reduce them to a wanted string
 
-build with java
+
+this is a study project for TIB and creates a textfile for an autotool excercise
+
+
 
 
 start/goal string can be changed in the beginning of the class
