@@ -14,17 +14,12 @@ public class WordRewriter {
 
     // building palindrome rules
     static List<Rule> buildRules = List.of(
-        new Rule("c", "acb"),
-        new Rule("c", "baca"),
-        new Rule("c", "bcbab")
+        new Rule("c", "a")
     );
     
     // reducing rules
     static List<Rule> reduceRules = List.of(
-            new Rule("aca", "d"),
-            new Rule("bcb", "d"),
-            new Rule("ada", "d"),
-            new Rule("bdb", "d")
+            new Rule("a", "d")
     );
 
     static class Rule {
