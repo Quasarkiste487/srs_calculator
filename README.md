@@ -1,2 +1,4 @@
 # srs_calculator
-a simple string replacement system for creating Palindromes and reduce them to a wanted string
+**a simple string replacement system for creating Palindromes and reduce them to a wanted string
+
+please do not use for commercial projects
